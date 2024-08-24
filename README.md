@@ -5,7 +5,7 @@ It is simple tank game which was written in Matlab (OOP).
 
 ## Ukázka hry
 
-![Ukázka hry](https://github.com/LukasPetrak/Projects/blob/main/Tanks/gif.gif)
+![Ukázka hry](https://github.com/LukasPetrak/Tanks/blob/main/gif.gif)
 
 ## Game Controls
 
@@ -17,7 +17,7 @@ It is simple tank game which was written in Matlab (OOP).
 
 Clone this repository
    ```bash
-   git clone https://github.com/LukasPetrak/Projects/tree/main/Tanks
+   git clone https://github.com/LukasPetrak/Tanks
    ```
 Run the game
    ```bash
